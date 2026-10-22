@@ -1,0 +1,6 @@
+{
+  "name": "Pill Toast Notifications",
+  "description": "Tactile, pill-shaped fluid toast notification system inspired by Apple iOS design with soft 3D icon wells and spring physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
